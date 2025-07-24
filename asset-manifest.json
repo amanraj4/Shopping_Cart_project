@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%3Chttps://amanraj4.github.io/Shopping_Cart_project%3E/static/css/main.f3fe6b60.css",
+    "main.js": "/%3Chttps://amanraj4.github.io/Shopping_Cart_project%3E/static/js/main.84a43c9e.js",
+    "index.html": "/%3Chttps://amanraj4.github.io/Shopping_Cart_project%3E/index.html",
+    "main.f3fe6b60.css.map": "/%3Chttps://amanraj4.github.io/Shopping_Cart_project%3E/static/css/main.f3fe6b60.css.map",
+    "main.84a43c9e.js.map": "/%3Chttps://amanraj4.github.io/Shopping_Cart_project%3E/static/js/main.84a43c9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3fe6b60.css",
+    "static/js/main.84a43c9e.js"
+  ]
+}
